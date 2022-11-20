@@ -26,6 +26,18 @@ body {
    -o-border-radius: 10px;
 }
 
+.button-primary:hover {
+    background-color: salmon;
+    color: white;
+    border: white 2px solid;
+    scale: 1.1;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+
 
 .carousel-item h5 {
     color: #ffffff;
