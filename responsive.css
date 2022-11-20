@@ -1,14 +1,26 @@
-/* @media screen and (max-width : 922px) {
+@media screen and (max-width : 922px) {
 
+    .selamat h1 {
 
+       font-size: 30px;
+    }
 }
 
 @media screen and (max-width : 576px) {
+    
+    .selamat h1 {
 
+        font-size: 20px;
+        font-weight: bold;
+     }
 
 }
 
-@media screen and (max-width : 576) {
+@media screen and (max-width : 350px) {
 
+    .selamat h1 {
 
-} */
+        font-size: 15px;
+        font-weight: bold;
+     }
+} 
