@@ -27,7 +27,13 @@ body {
 }
 
 
-.carousel-item h5, p {
+.carousel-item h5 {
+    color: #ffffff;
+    font-weight: 400;
+    text-shadow: 1px 1px 2px black, -1px -1px 2px black;
+}
+
+.carousel-item p {
     color: #ffffff;
     font-weight: 400;
     text-shadow: 1px 1px 2px black, -1px -1px 2px black;
