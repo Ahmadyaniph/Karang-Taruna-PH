@@ -11,6 +11,13 @@ body {
     font-weight: 900;
 }
 
+.navbar-toggler-icon {
+    width: 15px;
+    padding: 3px;
+    border: 1px #ffffff solid;
+    box-shadow: 2px 2px 3px black;
+}
+
 .button-primary {
    width: 120px;
    height: 35px;
