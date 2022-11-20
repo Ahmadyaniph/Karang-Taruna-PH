@@ -25,3 +25,9 @@ body {
    -ms-border-radius: 10px;
    -o-border-radius: 10px;
 }
+
+
+.carousel-item h5, p {
+    color: #ffffff;
+    font-weight: 400;
+}
