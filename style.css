@@ -42,3 +42,12 @@ body {
 .tulisan h4 {
     font-weight: 400;
 }
+
+.perbesar:hover {
+    background-color: #ffd900;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
