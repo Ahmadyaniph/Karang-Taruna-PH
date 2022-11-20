@@ -1,4 +1,27 @@
 body {
     font-family: 'Poppins', sans-serif;
+    
+}
 
+.nav-link {
+    font-size: 16px;
+}
+
+.nav-link.active {
+    font-weight: 900;
+}
+
+.button-primary {
+   width: 120px;
+   height: 35px;
+   background-color: #ffffff;
+   color:#c06d00;
+   border: #ffee00 2px solid;
+   border-radius: 10px;
+   font-size: 16px;
+   font-weight: 700;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   -ms-border-radius: 10px;
+   -o-border-radius: 10px;
 }
