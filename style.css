@@ -44,6 +44,7 @@ body {
     -ms-transition: all ease-in-out .5s;
     -o-transition: all ease-in-out .5s;
 }
+/* awal style index.html */
 
 .carousel-item h5 {
     color: #ffffff;
@@ -69,3 +70,37 @@ body {
     -ms-transition: all ease-in-out 0.5s;
     -o-transition: all ease-in-out 0.5s;
 }
+
+/* akhir style index.html */
+
+
+/* awal style *kepengurusan */
+
+.katar {
+    background-image: url(Assets/img/Logo\ Karang\ Taruna\ Pulau\ Harapan.png);
+    background-repeat: no-repeat;
+    background-size: 90px;
+    background-position: center;
+}
+
+.kop {
+    text-align: center;
+
+}
+
+.kop h2 {
+    font-weight: 700;
+}
+
+.kop h4 {
+    font-weight: 500;
+}
+
+.banyuasin {
+    background-image: url(Assets/img/Logo\ Banyuasin.png);
+    background-repeat: no-repeat;
+    background-size: 90px;
+    background-position: center;
+}
+
+/* akhir style kepengurusan */
