@@ -76,14 +76,31 @@ body {
 
 /* awal style *kepengurusan */
 
-.header-kepengurusan {
-    list-style-type: none;
-    display: inline-block;
+.Header-Kepengurusan {
     text-align: center;
 }
 
-.header-kepengurusan li {
-    float:left;
+.Header-Kepengurusan H4 {
+    font-weight:700;
+    font-size: 30px;
+}
+
+.Header-Kepengurusan h5 {
+    font-weight:700;
+    font-size: 25px;
+    margin-top:-10px;
+}
+
+.katar {
+    height: 90px;
+}
+
+.banyuasin {
+    height: 90px;
+}
+
+.Hr-Kepengurusan {
+    border: 3px black solid;
 }
 
 
