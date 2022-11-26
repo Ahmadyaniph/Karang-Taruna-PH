@@ -76,31 +76,15 @@ body {
 
 /* awal style *kepengurusan */
 
-.katar {
-    background-image: url(Assets/img/Logo\ Karang\ Taruna\ Pulau\ Harapan.png);
-    background-repeat: no-repeat;
-    background-size: 90px;
-    background-position: center;
-}
-
-.kop {
+.header-kepengurusan {
+    list-style-type: none;
+    display: inline-block;
     text-align: center;
-
 }
 
-.kop h2 {
-    font-weight: 700;
+.header-kepengurusan li {
+    float:left;
 }
 
-.kop h4 {
-    font-weight: 500;
-}
-
-.banyuasin {
-    background-image: url(Assets/img/Logo\ Banyuasin.png);
-    background-repeat: no-repeat;
-    background-size: 90px;
-    background-position: center;
-}
 
 /* akhir style kepengurusan */
