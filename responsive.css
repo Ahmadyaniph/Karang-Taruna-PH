@@ -1,18 +1,73 @@
 @media screen and (max-width : 922px) {
 
+    /* Awal file index.html */
     .selamat h1 {
 
-       font-size: 30px;
+    font-size: 30px;
     }
+
+    /* akhir file index.html */
 }
+
+@media screen and (max-width : 767px) {
+
+    /* Awal file kepengurusan.html */
+
+    .Header-Kepengurusan h4 {
+        font-size: 25px;
+    }
+    .Header-Kepengurusan h5 {
+        font-size: 15px;
+        margin-top:-5px;
+    }
+    .Header-Kepengurusan .katar {
+        height: 65px;
+    }
+    .Header-Kepengurusan .banyuasin {
+        height: 65px;
+    }
+    .Hr-Kepengurusan {
+        border: 2px black solid;
+    }
+    
+    /* Akhir file kepengurusan */
+
+}
+
+
 
 @media screen and (max-width : 576px) {
     
+    /* awal file index.html */
+
     .selamat h1 {
 
         font-size: 20px;
         font-weight: bold;
-     }
+    }
+
+    /* Akhir file index.html*/
+
+    /* Awal file kepengurusan.html */
+
+    .Header-Kepengurusan h4 {
+        font-size: 15px;
+    }
+    .Header-Kepengurusan h5 {
+        font-size: 9px;
+        margin-top:-6px;
+    }
+    .Header-Kepengurusan .katar {
+        height: 50px;
+    }
+    .Header-Kepengurusan .banyuasin {
+        height: 50px;
+    }
+    .Hr-Kepengurusan {
+        border: 2px black solid;
+    }
+    
+    /* Akhir kepengurusan.html */
 
 
 
@@ -20,9 +75,14 @@
 
 @media screen and (max-width : 350px) {
 
+    /* awal file index.html */
+
     .selamat h1 {
 
         font-size: 15px;
         font-weight: bold;
-     }
+    }
+
+    /* akhir file index.html */
+    
 } 
