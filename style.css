@@ -108,7 +108,7 @@ body {
     display: grid;
     width: 100%;
     /* border: red 2px solid; */
-    margin: 20px auto;
+    margin: 15px auto 35px;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
@@ -260,6 +260,7 @@ body {
 .bordergoib {
     color: white;
     border: none;
+    height: 65px;
 }
 .noborder {
     border: none;

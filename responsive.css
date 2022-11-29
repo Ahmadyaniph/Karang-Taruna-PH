@@ -7,6 +7,24 @@
     }
 
     /* akhir file index.html */
+
+    /* awal file kepengurusan.html */
+
+    .pj-ketum {
+        font-size: 12px;
+    }
+
+    .ben-sek {
+        font-size: 12px;
+    }
+
+    
+    .koordinator {
+        font-size: 11px;
+    }
+
+
+    /* akhir file kepengurusan.html */
 }
 
 @media screen and (max-width : 767px) {
@@ -29,6 +47,21 @@
     .Hr-Kepengurusan {
         border: 2px black solid;
     }
+    
+    .pj-ketum {
+        font-size: 10px;
+    }
+
+    .ben-sek {
+        font-size: 10px;
+    }
+
+    
+    .koordinator {
+        font-size: 8px;
+    }
+
+
     
     /* Akhir file kepengurusan */
 
@@ -66,6 +99,55 @@
     .Hr-Kepengurusan {
         border: 2px black solid;
     }
+    
+
+    .pj-ketum {
+        display: grid;
+        width: 100%;
+        /* border: red 2px solid; */
+        grid-template-columns: 150px;
+    }
+
+    .pj-item {
+        display: flex;
+        border:black 1px solid ;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .bordergoib {
+        color: white;
+        border: none;
+        height: 15px;
+    ]
+    .ketum-item {
+        display: flex;
+        border:black 1px solid ;
+        justify-content: center;
+        align-items: center;
+
+
+
+    .borderhijau {
+        background-color: greenyellow;
+        font-weight: bold;
+    }
+    .bordermerah {
+        background-color: red;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+    }
+    .bordergoib {
+        color: white;
+        border: none;
+    }
+    .noborder {
+        border: none;
+    }
+    
+
+
     
     /* Akhir kepengurusan.html */
 
