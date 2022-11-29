@@ -234,6 +234,13 @@ body {
 
 }
 
+.tinggi-border {
+    height: 60px;
+}
+
+
+
+
 .pembatas-akhir {
     height: 50px;
 }
@@ -242,10 +249,13 @@ body {
 
 .borderhijau {
     background-color: greenyellow;
+    font-weight: bold;
 }
 .bordermerah {
     background-color: red;
     color: white;
+    font-weight: bold;
+    text-align: center;
 }
 .bordergoib {
     color: white;
