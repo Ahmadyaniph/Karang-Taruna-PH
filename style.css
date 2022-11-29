@@ -104,13 +104,14 @@ body {
 }
 
 
-.isi {
+.pj-ketum {
     display: grid;
     width: 100%;
     /* border: red 2px solid; */
     margin: 20px auto;
     grid-template-columns: 1fr 1fr 1fr;
 }
+
 .pj-item {
     display: flex;
     border:black 1px solid ;
@@ -121,8 +122,8 @@ body {
     grid-row-start: -9;
     grid-row-end: -1;
     margin-right: 5px;
-
 }
+
 .ketum-item {
     display: flex;
     border:black 1px solid ;
@@ -135,14 +136,59 @@ body {
     margin-right: 5px;
 
 }
+.ben-sek {
+    display: grid;
+    width: 100%;
+    /* border: red 2px solid; */
+    margin: 20px auto;
+    grid-template-columns: 1fr .8fr 1fr;
+}
 
 
+.sek-item {
+    display: flex;
+    border:black 1px solid ;
+    justify-content: center;
+    align-items: center;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: -7;
+    grid-row-end: -1;
+    margin-right: 5px;
+}
+
+.borderkosong {
+    display: flex;
+    /* border:black 1px solid ; */
+    justify-content: center;
+    align-items: center;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: -7;
+    grid-row-end: -1;
+    margin-right: 5px;
+}
+
+.ben-item {
+    display: flex;
+    border:black 1px solid ;
+    justify-content: center;
+    align-items: center;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: -7;
+    grid-row-end: -1;
+    margin-right: 5px;
+}
+
+/* konfigurasi border */
 
 .borderhijau {
     background-color: greenyellow;
 }
 .bordermerah {
     background-color: red;
+    color: white;
 }
 .bordergoib {
     color: white;
@@ -151,4 +197,7 @@ body {
 .noborder {
     border: none;
 }
+
+/* Akhir Konfigurasi Border */
+
 /* akhir style kepengurusan */
