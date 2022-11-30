@@ -76,6 +76,7 @@ body {
 
 /* awal style *kepengurusan */
 
+
 .Header-Kepengurusan {
     text-align: center;
 }
@@ -102,7 +103,6 @@ body {
 .Hr-Kepengurusan {
     border: 3px black solid;
 }
-
 
 .pj-ketum {
     display: grid;
@@ -250,6 +250,7 @@ body {
 .borderhijau {
     background-color: greenyellow;
     font-weight: bold;
+    color: #2f00ff;
 }
 .bordermerah {
     background-color: red;

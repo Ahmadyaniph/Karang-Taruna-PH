@@ -10,6 +10,24 @@
 
     /* awal file kepengurusan.html */
 
+    .Header-Kepengurusan h4 {
+        font-size: 30x;
+    }
+    .Header-Kepengurusan h5 {
+        font-size: 20px;
+        margin-top:-10px;
+    }
+    .Header-Kepengurusan .katar {
+        height: 72px;
+    }
+    .Header-Kepengurusan .banyuasin {
+        height: 72px;
+    }
+    .Hr-Kepengurusan {
+        border: 2px black solid;
+    }
+    
+    
     .pj-ketum {
         font-size: 12px;
     }
@@ -60,6 +78,26 @@
     .koordinator {
         font-size: 8px;
     }
+
+    .borderhijau {
+        background-color: greenyellow;
+        font-weight: bold;
+    }
+    .bordermerah {
+        background-color: red;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+    }
+    .bordergoib {
+        color: white;
+        border: none;
+        height: 45px;
+    }
+    .noborder {
+        border: none;
+    }
+    
 
 
     
@@ -119,14 +157,17 @@
         color: white;
         border: none;
         height: 15px;
-    ]
+    }
     .ketum-item {
         display: flex;
         border:black 1px solid ;
         justify-content: center;
         align-items: center;
 
+    }
 
+
+    
 
     .borderhijau {
         background-color: greenyellow;
@@ -141,6 +182,7 @@
     .bordergoib {
         color: white;
         border: none;
+        height: 15px;
     }
     .noborder {
         border: none;
@@ -166,5 +208,110 @@
     }
 
     /* akhir file index.html */
+
+    
+
+    .pj-ketum {
+        display: grid;
+        /* border: red 2px solid; */
+        grid-template-columns: 150px;
+        justify-content: center;
+
+    }
+
+    .pj-item {
+        display: flex;
+        border:black 1px solid ;
+        
+    }
+
+    .ketum-item {
+        display: flex;
+        border:black 1px solid ;
+        
+    }
+    .bordergoib {
+        color: white;
+        border: none;
+        height: 15px;
+
+    }
+    .ketum-item {
+        display: flex;
+        border:black 1px solid ;
+
+
+    }
+
+    .ben-sek {
+        display: grid;
+        width: 100%;
+        /* border: red 2px solid; */
+        margin: 20px auto;
+        grid-template-columns: 1fr .4fr 1fr;
+    }
+    
+    
+    .sek-item {
+        font-size: 8px;
+    }
+    
+
+    .ben-item {
+        font-size: 8px;
+    }
+
+    .kol1-item {
+        margin-right: 2px;
+        font-size: 5px;
+    
+    }
+    .kol2-item {
+        margin-right: 2px;
+        font-size: 5px;
+
+    }
+    .kol3-item {
+        margin-right: 2px;
+        font-size: 5px;
+    
+    }
+    .kol4-item {
+        margin-right: 2px;
+        font-size: 5px;
+    
+    }
+    .kol5-item {
+        font-size: 5px;
+    }
+
+    .tinggi-border {
+        height: 30px;
+    }
+
+    .borderhijau {
+        background-color: greenyellow;
+        font-weight: bold;
+    }
+    .bordermerah {
+        background-color: red;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+    }
+    .bordergoib {
+        color: white;
+        border: none;
+    }
+    .noborder {
+        border: none;
+    }
+    
+
+
+    
+    /* Akhir kepengurusan.html */
+
+
     
 } 
