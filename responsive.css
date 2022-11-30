@@ -197,6 +197,92 @@
 
 }
 
+@media screen and (max-width : 400px) {
+
+    /* awal file kepengurusan.html */
+
+    .pj-ketum {
+        display: grid;
+        /* border: red 2px solid; */
+        grid-template-columns: 150px;
+        justify-content: center;
+
+    }
+
+    .pj-item {
+        display: flex;
+        border:black 1px solid ;
+        
+    }
+
+    .ketum-item {
+        display: flex;
+        border:black 1px solid ;
+        
+    }
+    .bordergoib {
+        color: white;
+        border: none;
+        height: 15px;
+
+    }
+    .ketum-item {
+        display: flex;
+        border:black 1px solid ;
+
+
+    }
+
+    .ben-sek {
+        display: grid;
+        width: 100%;
+        /* border: red 2px solid; */
+        margin: 15px auto;
+        grid-template-columns: 1fr .4fr 1fr;
+    }
+    
+    
+    .sek-item {
+        font-size: 6px;
+    }
+    
+
+    .ben-item {
+        font-size: 6px;
+    }
+
+    .kol1-item {
+        margin-right: 2px;
+        font-size: 4px;
+    
+    }
+    .kol2-item {
+        margin-right: 2px;
+        font-size: 4px;
+
+    }
+    .kol3-item {
+        margin-right: 2px;
+        font-size: 4px;
+    
+    }
+    .kol4-item {
+        margin-right: 2px;
+        font-size: 4px;
+    
+    }
+    .kol5-item {
+        font-size: 4px;
+    }
+
+    .tinggi-border {
+        height: 30px;
+    }
+
+    /* akhir file kepengurusan.html */
+
+}
+
 @media screen and (max-width : 350px) {
 
     /* awal file index.html */
