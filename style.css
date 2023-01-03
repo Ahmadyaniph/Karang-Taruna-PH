@@ -270,3 +270,35 @@ body {
 /* Akhir Konfigurasi Border */
 
 /* akhir style kepengurusan */
+
+
+/* Awal style galery */
+
+h2 {
+    text-align: center;
+    margin: 20px;
+    font-weight: bold;
+}
+.item1 {
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.galery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 145px;
+    grid-auto-rows: 145px;
+    gap: 4px;
+    grid-template-areas: 'gambar-1 gambar-2 gambar-3 gambar-4 gambar-12'
+        'gambar-5 gambar-6 gambar-7 gambar-8 gambar-12'
+        'gambar-11 gambar-9 gambar-10 gambar-13 gambar-14'
+        'gambar-11 gambar-15 gambar-16 gambar-17 gambar-18';
+    margin-bottom: 100px;
+    }
+
+
+/* Akhir Style Galery */

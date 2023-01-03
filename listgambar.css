@@ -1,0 +1,121 @@
+.gambar1 {
+    grid-area: gambar-1;
+    background-image: url(Assets/img/Melintang-1.JPG);
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar2 {
+    grid-area: gambar-2;
+    background-image: url(Assets/img/Melintang-2.JPG);
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar3 {
+    grid-area: gambar-3;
+    background-image: url(Assets/img/Melintang-3.JPG);
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar4 {
+    grid-area: gambar-4;
+    background-image: url(Assets/img/Melintang-4.JPG);
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar5 {
+    grid-area: gambar-5;
+    background-image: url(Assets/img/Melintang-5.JPG);
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar6 {
+    grid-area: gambar-6;
+    background-image: url(Assets/img/Melintang-6.JPG);
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar7 {
+    grid-area: gambar-7;
+    background-image: url(Assets/img/Melintang-7.JPG);
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar8 {
+    grid-area: gambar-8;
+    background-image: url(Assets/img/Melintang-8.JPG);
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar9 {
+    grid-area: gambar-9;
+    background-image: url(Assets/img/Melintang-9.JPG);
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar10 {
+    grid-area: gambar-10;
+    background-image: url(Assets/img/Melintang-10.JPG);
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar11 {
+    grid-area: gambar-11;
+    background-image: url(Assets/img/Tegak-1.JPG);
+    background-size: cover;
+    background-position: center center;
+}
+.gambar12 {
+    grid-area: gambar-12;
+    background-image: url(Assets/img/Tegak-2.JPG);
+    background-size: cover;
+    background-position: center center;
+}
+.gambar13 {
+    grid-area: gambar-13;
+    background-image: url();
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar14 {
+    grid-area: gambar-14;
+    background-image: url();
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar15 {
+    grid-area: gambar-15;
+    background-image: url();
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar16 {
+    grid-area: gambar-16;
+    background-image: url();
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar17 {
+    grid-area: gambar-17;
+    background-image: url();
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar18 {
+    grid-area: gambar-18;
+    background-image: url();
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar19 {
+    grid-area: gambar-19;
+    background-image: url();
+    background-size: cover;
+    background-position: bottom center;
+}
+.gambar20 {
+    grid-area: gambar-20;
+    background-image: url();
+    background-size: cover;
+    background-position: bottom center;
+}
+
